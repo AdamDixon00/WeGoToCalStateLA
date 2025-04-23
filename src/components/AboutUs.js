@@ -25,7 +25,9 @@ const AboutUs = () => {
                                 </Card.Link>
                                 <hr className="hr hr-blurry" />
                                 <Card.Text className="text-center"><p>
-                                    Info about Weston needs to be added here.
+                                Weston Wood is a knowledgeable and dependable leader who plays a key role in the development of our We Go To Cal State LA web application. 
+                                His strong programming skills and consistent reliability make him a cornerstone of the team, 
+                                always ready to guide and support others with confidence and expertise.
                                 </p></Card.Text>
                             </Card.Body>
                     </Card>
