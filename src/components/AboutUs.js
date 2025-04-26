@@ -25,9 +25,9 @@ const AboutUs = () => {
                                 </Card.Link>
                                 <hr className="hr hr-blurry" />
                                 <Card.Text className="text-center"><p>
-                                Weston Wood is a knowledgeable and dependable leader who plays a key role in the development of our We Go To Cal State LA web application. 
+                                Weston Wood is a knowledgeable and dependable leader who plays a key role in the development of We Go To Cal State LA. 
                                 His strong programming skills and consistent reliability make him a cornerstone of the team, 
-                                always ready to guide and support others with confidence and expertise.
+                                always ready to guide and support others.
                                 </p></Card.Text>
                             </Card.Body>
                     </Card>
@@ -90,8 +90,7 @@ const AboutUs = () => {
                                 <hr className="hr hr-blurry" />
                                 <Card.Text className="text-center"><p>
                                 Ryan has been an incredibly valuable and hardworking member of the team. 
-                                His talent in programming—especially with React Native on the front end—has been essential to the project’s progress. 
-                                His dedication and consistent effort have helped bring the application to life in a meaningful way.
+                                His talent in programming—especially with React Native on the front end—has been essential to the project’s progress.
                                 </p></Card.Text>
                             </Card.Body>
                     </Card>
